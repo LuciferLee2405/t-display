@@ -1,11 +1,15 @@
 # T-display
 Tất cả những ứng dụng với t-display
 
-## Writing Style
+## Prerequisites
 
-[my video](youtube.com)
+First you have to install this library:
 
-I program this in C with Arduino IDE
+[U8g2_for_TFT_eSPI by Bodmer](https://github.com/Bodmer/U8g2_for_TFT_eSPI)
+
+On the Github page, click on **Code > Download zip**.
+
+Then install it in the Arduino IDE with **Sketch > Include Library > Add .ZIP Library**. Then the program [vietnam.ino](vietnam.ino) should successfully compile.
 
 ## Code example
 
