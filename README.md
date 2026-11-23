@@ -3,6 +3,8 @@ Tất cả những ứng dụng với t-display
 
 ## Writing Style
 
+[my video](youtube.com)
+
 I program this in C with Arduino IDE
 
 ## Code example
