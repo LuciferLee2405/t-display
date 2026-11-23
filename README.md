@@ -23,8 +23,10 @@ start = 5
 
 ### Antoher example
 
-```c
-#define
+```py
+#comment
+
+a = 6
 ```
 
 ### Now Python
